@@ -86,4 +86,5 @@ cv2.destroyAllWindows()
 ```
 
 ## Hasil
+[hasil.pdf](https://github.com/Febriyaninurhida123/Pengolahan-Citra/files/15106178/hasil.pdf)
 
